@@ -22,7 +22,7 @@ This is a simple game that allows the player to select from four crystals with d
 
 ## Author
 
-* **Cristina D** 
+* **Cristina Defoe** 
 
 ## Acknowledgments
 
